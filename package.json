@@ -1,0 +1,10 @@
+{
+  "description": "Testing semantic-release in monorepo setup",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}

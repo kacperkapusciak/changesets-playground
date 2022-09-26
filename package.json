@@ -1,5 +1,5 @@
 {
-  "description": "Testing semantic-release in monorepo setup",
+  "description": "Testing changesets",
   "license": "MIT",
   "private": true,
   "workspaces": {
@@ -8,7 +8,8 @@
     ]
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "release": "changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.24.4",

@@ -11,8 +11,8 @@ jobs:
       - name: Checkout actions
         uses: actions/checkout@v3
         with:
-          ref: ${{github.event.pull_request.head.sha}}
-          fetch-depth: 0 # changesets can't see `main` branch on PRs for some reason
+          ref: ${{github.event.pull_request.head.sha}}  # changesets can't see `main` branch on PRs for some reason
+          fetch-depth: 0                                # https://github.com/changesets/changesets/issues/517
 
       - name: Get yarn cache directory path
         id: yarn-cache-dir-path

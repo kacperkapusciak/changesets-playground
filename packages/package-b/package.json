@@ -1,7 +1,8 @@
 {
-  "name": "kacperkapusciak/package-b",
+  "name": "@kacperkapusciak/package-b",
   "version": "0.0.0",
+  "main": "src/index.js",
   "dependencies": {
-    "package-a": "*"
+    "@kacperkapusciak/package-a": "*"
   }
 }

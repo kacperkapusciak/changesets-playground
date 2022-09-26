@@ -1,5 +1,5 @@
 {
-  "name": "kacperkapusciak/package-a",
+  "name": "@kacperkapusciak/package-a",
   "version": "0.0.0",
   "main": "src/index.js",
   "dependencies": {

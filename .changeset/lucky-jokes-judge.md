@@ -2,4 +2,4 @@
 "@kacperkapusciak/package-a": minor
 ---
 
-Add extremally important logging
+Add extremely important logging

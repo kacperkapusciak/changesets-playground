@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "src/index.js",
   "dependencies": {
-    "@kacperkapusciak/package-a": "~0.0.1"
+    "@kacperkapusciak/package-a": "~0.1.0"
   },
   "files": [
     "!src/*.test.js"

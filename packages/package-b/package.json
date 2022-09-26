@@ -4,5 +4,8 @@
   "main": "src/index.js",
   "dependencies": {
     "@kacperkapusciak/package-a": "*"
-  }
+  },
+  "files": [
+    "!src/*.test.js"
+  ]
 }

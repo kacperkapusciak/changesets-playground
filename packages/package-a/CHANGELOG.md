@@ -1,5 +1,11 @@
 # @kacperkapusciak/package-a
 
+## 1.2.0
+
+### Minor Changes
+
+- [#15](https://github.com/kacperkapusciak/changesets-playground/pull/15) [`fac3391`](https://github.com/kacperkapusciak/changesets-playground/commit/fac33917a7596b8cd1b367200746ca3b9188edad) Thanks [@kacperkapusciak](https://github.com/kacperkapusciak)! - Changes
+
 ## 1.1.0
 
 ### Minor Changes

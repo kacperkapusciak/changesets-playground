@@ -1,15 +1,22 @@
-name: Check changesets
-on: [pull_request]
+name: Run tests
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
-  changesets:
+  tests:
     runs-on: ubuntu-latest
+    concurrency:
+      group: tests-${{ github.ref }}
+      cancel-in-progress: true
     steps:
       - name: Checkout actions
         uses: actions/checkout@v3
-        with:
-          ref: ${{github.event.pull_request.head.sha}}  # changesets can't see `main` branch on PRs for some reason
-          fetch-depth: 0                                # https://github.com/changesets/changesets/issues/517
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -29,6 +36,6 @@ jobs:
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'
         run: yarn install --immutable
-      
-      - name: Check changesets
-        run: yarn changeset status --since origin/main
+
+      - name: Test
+        run: yarn test

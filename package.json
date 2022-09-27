@@ -11,6 +11,7 @@
   "scripts": {
     "test": "jest",
     "release": "changeset publish",
+    "version": "changeset version && yarn",
     "example": "yarn workspace example"
   },
   "devDependencies": {

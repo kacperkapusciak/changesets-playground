@@ -1,4 +1,4 @@
-name: Create Release Pull Request or Publish to npm
+name: Release
 
 on:
   push:
@@ -32,6 +32,8 @@ jobs:
         uses: changesets/action@v1
         with:
           publish: yarn release
+          version: yarn version
+          commit: 'chore: publish'
           title: 'chore: publish'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

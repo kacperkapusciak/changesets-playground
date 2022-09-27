@@ -31,7 +31,7 @@ jobs:
           path: |
             '**/node_modules'
             '.yarn/install-state.gz'
-          key: node-${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          key: node-cache-${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
 
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'

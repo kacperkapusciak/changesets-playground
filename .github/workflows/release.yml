@@ -12,11 +12,11 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v2
+      - name: Checkout actions
+        uses: actions/checkout@v3
 
       - name: Use yarn cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         id: yarn-cache
         with:
           path: .yarn/cache

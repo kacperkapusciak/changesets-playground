@@ -12,7 +12,7 @@ jobs:
           fetch-depth: 0                                # https://github.com/changesets/changesets/issues/517
 
       - name: Use yarn cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         id: yarn-cache
         with:
           path: .yarn/cache

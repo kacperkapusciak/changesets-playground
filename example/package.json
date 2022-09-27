@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "example",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@kacperkapusciak/package-a": "workspace:^",
+    "@kacperkapusciak/package-b": "workspace:^"
+  }
+}

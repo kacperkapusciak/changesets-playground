@@ -7,5 +7,6 @@
   "dependencies": {
     "@kacperkapusciak/package-a": "workspace:^",
     "@kacperkapusciak/package-b": "workspace:^"
-  }
+  },
+  "version": null
 }

@@ -32,7 +32,7 @@ jobs:
         uses: changesets/action@v1
         with:
           publish: yarn release
-          version: yarn version
+          version: yarn version # yarn.lock is out of sync after release PR is merged https://github.com/changesets/action/issues/203
           commit: 'chore: publish'
           title: 'chore: publish'
         env:

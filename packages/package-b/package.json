@@ -5,6 +5,9 @@
   "dependencies": {
     "@kacperkapusciak/package-a": "~1.1.0"
   },
+  "devDependencies": {
+    "@kacperkapusciak/package-c": "workspace:^"
+  },
   "files": [
     "!src/*.test.js"
   ]

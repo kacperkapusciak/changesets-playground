@@ -1,6 +1,6 @@
 const myIsEven = require('./index');
 
-describe('package-a', () => {
+describe('package-b', () => {
   it('should return true for even numbers', () => {
     expect(myIsEven(2)).toBe(true);
     expect(myIsEven(4)).toBe(true);
@@ -12,4 +12,4 @@ describe('package-a', () => {
     expect(myIsEven(3)).toBe(false);
     expect(myIsEven(5)).toBe(false);
   });
-})
+});

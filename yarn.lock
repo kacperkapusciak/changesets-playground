@@ -996,6 +996,13 @@ __metadata:
   resolution: "@kacperkapusciak/package-b@workspace:packages/package-b"
   dependencies:
     "@kacperkapusciak/package-a": ~1.1.0
+    "@kacperkapusciak/package-c": "workspace:^"
+  languageName: unknown
+  linkType: soft
+
+"@kacperkapusciak/package-c@workspace:^, @kacperkapusciak/package-c@workspace:packages/package-c":
+  version: 0.0.0-use.local
+  resolution: "@kacperkapusciak/package-c@workspace:packages/package-c"
   languageName: unknown
   linkType: soft
 

@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "useNx": true,
+  "useWorkspaces": true,
+  "version": "independent",
+  "command": {
+    "publish": {
+      "allowBranch": "main",
+      "conventionalCommits": true,
+      "createRelease": "github",
+      "message": "chore: publish",
+      "ignoreChanges": ["**/*.test.js", "**/*.md", "**/example/**"]
+    }
+  }
+}

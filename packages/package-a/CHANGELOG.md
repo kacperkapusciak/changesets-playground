@@ -1,3 +1,14 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [1.2.0](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-a@1.1.0...@kacperkapusciak/package-a@1.2.0) (2022-09-29)
+
+### Features
+
+* changes ([#15](https://github.com/kacperkapusciak/semantic-release-playground/issues/15)) ([fac3391](https://github.com/kacperkapusciak/semantic-release-playground/commit/fac33917a7596b8cd1b367200746ca3b9188edad))
+
 # @kacperkapusciak/package-a
 
 ## 1.1.0

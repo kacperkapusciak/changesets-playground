@@ -1,3 +1,15 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [0.2.0](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-b@0.1.3...@kacperkapusciak/package-b@0.2.0) (2022-09-29)
+
+### Features
+
+* add logger package ([60ab9f0](https://github.com/kacperkapusciak/semantic-release-playground/commit/60ab9f0fb49c7c8686964f0d3fe32c38017faec6))
+* changes ([#15](https://github.com/kacperkapusciak/semantic-release-playground/issues/15)) ([fac3391](https://github.com/kacperkapusciak/semantic-release-playground/commit/fac33917a7596b8cd1b367200746ca3b9188edad))
+
 # @kacperkapusciak/package-b
 
 ## 0.1.3

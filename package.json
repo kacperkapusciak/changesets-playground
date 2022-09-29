@@ -11,6 +11,7 @@
   },
   "scripts": {
     "test": "jest",
+    "version": "yarn install && git stage yarn.lock",
     "release": "lerna publish",
     "example": "yarn workspace example"
   },

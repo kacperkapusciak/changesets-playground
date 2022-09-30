@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.3.5
+
+### Patch Changes
+
+- Updated dependencies [[`471ba8c`](https://github.com/kacperkapusciak/changesets-playground/commit/471ba8c0ea33b447b0d5fa28241a68e92eaf099d)]:
+  - @kacperkapusciak/package-a@1.3.0
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
@@ -19,13 +26,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* important fix ([3bd0546](https://github.com/kacperkapusciak/semantic-release-playground/commit/3bd0546025fa1094dfdc873fef35a557b45fde7d))
+- important fix ([3bd0546](https://github.com/kacperkapusciak/semantic-release-playground/commit/3bd0546025fa1094dfdc873fef35a557b45fde7d))
 
 # [0.3.0](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-b@0.2.1...@kacperkapusciak/package-b@0.3.0) (2022-09-30)
 
 ### Features
 
-* feature ([a28025f](https://github.com/kacperkapusciak/semantic-release-playground/commit/a28025f34cec6d825c729240978cf05366cae84c))
+- feature ([a28025f](https://github.com/kacperkapusciak/semantic-release-playground/commit/a28025f34cec6d825c729240978cf05366cae84c))
 
 ## [0.2.1](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-b@0.2.0...@kacperkapusciak/package-b@0.2.1) (2022-09-30)
 
@@ -35,8 +42,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-* add logger package ([60ab9f0](https://github.com/kacperkapusciak/semantic-release-playground/commit/60ab9f0fb49c7c8686964f0d3fe32c38017faec6))
-* changes ([#15](https://github.com/kacperkapusciak/semantic-release-playground/issues/15)) ([fac3391](https://github.com/kacperkapusciak/semantic-release-playground/commit/fac33917a7596b8cd1b367200746ca3b9188edad))
+- add logger package ([60ab9f0](https://github.com/kacperkapusciak/semantic-release-playground/commit/60ab9f0fb49c7c8686964f0d3fe32c38017faec6))
+- changes ([#15](https://github.com/kacperkapusciak/semantic-release-playground/issues/15)) ([fac3391](https://github.com/kacperkapusciak/semantic-release-playground/commit/fac33917a7596b8cd1b367200746ca3b9188edad))
 
 # @kacperkapusciak/package-b
 

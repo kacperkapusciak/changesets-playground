@@ -5,6 +5,9 @@
   "dependencies": {
     "is-odd": "^3.0.1"
   },
+  "devDependencies": {
+    "@kacperkapusciak/package-c": "workspace:^"
+  },
   "files": [
     "!src/*.test.js"
   ]

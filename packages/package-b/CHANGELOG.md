@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.4.0
+
+### Minor Changes
+
+- [#21](https://github.com/kacperkapusciak/changesets-playground/pull/21) [`007d4d3`](https://github.com/kacperkapusciak/changesets-playground/commit/007d4d398b9ae6177320c8f59c2745be0bdc84ad) Thanks [@kacperkapusciak](https://github.com/kacperkapusciak)! - fix: import logger only when necessary
+
 ## 0.3.5
 
 ### Patch Changes

@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-c@0.1.2...@kacperkapusciak/package-c@0.2.0) (2022-09-30)
+
+### Features
+
+* feat ([a812c29](https://github.com/kacperkapusciak/semantic-release-playground/commit/a812c29f0637439e417a6baf42eca0f34240486e))
+
 ## [0.1.2](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-c@0.1.1...@kacperkapusciak/package-c@0.1.2) (2022-09-30)
 
 ### Bug Fixes

@@ -6,7 +6,7 @@ const logger = require('@kacperkapusciak/package-c');
 module.exports = function myIsEven(value) {
   // when in development mode, log the value
   if (process.env.NODE_ENV === 'development') {
-    // important feature
+    // important fix
     logger.log(value);
   }
   return !myIsOdd(value);

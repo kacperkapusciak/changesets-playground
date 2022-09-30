@@ -1,6 +1,6 @@
 module.exports = {
   log: function log(value) {
-    // fix
+    // feat
     console.log(value);
   },
 };

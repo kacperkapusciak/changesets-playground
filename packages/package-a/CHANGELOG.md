@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-a@1.2.0...@kacperkapusciak/package-a@1.2.1) (2022-09-30)
+
+### Bug Fixes
+
+* dev depend package-c ([4e7dfad](https://github.com/kacperkapusciak/semantic-release-playground/commit/4e7dfad6fb65850571bd63f68ac3d62a9d69db7c))
+
 # [1.2.0](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-a@1.1.0...@kacperkapusciak/package-a@1.2.0) (2022-09-29)
 
 ### Features

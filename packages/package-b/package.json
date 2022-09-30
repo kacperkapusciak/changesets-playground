@@ -1,9 +1,9 @@
 {
   "name": "@kacperkapusciak/package-b",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "main": "src/index.js",
   "dependencies": {
-    "@kacperkapusciak/package-a": "^1.2.0"
+    "@kacperkapusciak/package-a": "^1.2.1"
   },
   "devDependencies": {
     "@kacperkapusciak/package-c": "workspace:^"

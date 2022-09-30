@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-b@0.2.0...@kacperkapusciak/package-b@0.2.1) (2022-09-30)
+
+**Note:** Version bump only for package @kacperkapusciak/package-b
+
 # [0.2.0](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-b@0.1.3...@kacperkapusciak/package-b@0.2.0) (2022-09-29)
 
 ### Features

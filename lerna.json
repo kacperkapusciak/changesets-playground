@@ -9,7 +9,7 @@
       "conventionalCommits": true,
       "createRelease": "github",
       "message": "chore: publish",
-      "ignoreChanges": ["**/*.test.js", "**/*.md", "**/example/**"]
+      "ignoreChanges": ["**/*.test.js", "**/*.md", "**/example/**", "example/**"]
     }
   }
 }

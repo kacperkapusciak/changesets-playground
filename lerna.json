@@ -4,6 +4,7 @@
   "useNx": true,
   "useWorkspaces": true,
   "version": "independent",
+  "npmClient": "yarn",
   "command": {
     "publish": {
       "allowBranch": "main",

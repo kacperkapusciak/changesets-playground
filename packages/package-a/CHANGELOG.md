@@ -1,13 +1,11 @@
 # Change Log
 
-## 1.3.0
-
-### Minor Changes
-
-- [#19](https://github.com/kacperkapusciak/changesets-playground/pull/19) [`471ba8c`](https://github.com/kacperkapusciak/changesets-playground/commit/471ba8c0ea33b447b0d5fa28241a68e92eaf099d) Thanks [@kacperkapusciak](https://github.com/kacperkapusciak)! - Update package-a
-
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.3.1](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-a@1.3.0...@kacperkapusciak/package-a@1.3.1) (2022-11-21)
+
+**Note:** Version bump only for package @kacperkapusciak/package-a
 
 ## [1.2.1](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-a@1.2.0...@kacperkapusciak/package-a@1.2.1) (2022-09-30)
 

@@ -1,20 +1,11 @@
 # Change Log
 
-## 0.4.0
-
-### Minor Changes
-
-- [#21](https://github.com/kacperkapusciak/changesets-playground/pull/21) [`007d4d3`](https://github.com/kacperkapusciak/changesets-playground/commit/007d4d398b9ae6177320c8f59c2745be0bdc84ad) Thanks [@kacperkapusciak](https://github.com/kacperkapusciak)! - fix: import logger only when necessary
-
-## 0.3.5
-
-### Patch Changes
-
-- Updated dependencies [[`471ba8c`](https://github.com/kacperkapusciak/changesets-playground/commit/471ba8c0ea33b447b0d5fa28241a68e92eaf099d)]:
-  - @kacperkapusciak/package-a@1.3.0
-
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [0.4.1](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-b@0.4.0...@kacperkapusciak/package-b@0.4.1) (2022-11-21)
+
+**Note:** Version bump only for package @kacperkapusciak/package-b
 
 ## [0.3.4](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-b@0.3.3...@kacperkapusciak/package-b@0.3.4) (2022-09-30)
 

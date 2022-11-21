@@ -1,6 +1,6 @@
 module.exports = {
   log: function log(value) {
-    // more feet
+    // more ducks
     console.log(value);
   },
 };

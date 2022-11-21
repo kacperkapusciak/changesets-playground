@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/kacperkapusciak/monorepo-playground/compare/@kacperkapusciak/package-c@0.7.0...@kacperkapusciak/package-c@0.8.0) (2022-11-21)
+
+### Features
+
+* stuff ([83b6525](https://github.com/kacperkapusciak/monorepo-playground/commit/83b65253411ff7b817c10e94402a120029e1c8d3))
+
 # [0.7.0](https://github.com/kacperkapusciak/semantic-release-playground/compare/@kacperkapusciak/package-c@0.6.0...@kacperkapusciak/package-c@0.7.0) (2022-11-21)
 
 ### Features

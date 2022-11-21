@@ -732,7 +732,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@kacperkapusciak/package-a@^1.3.4, @kacperkapusciak/package-a@workspace:^, @kacperkapusciak/package-a@workspace:packages/package-a":
+"@kacperkapusciak/package-a@^1.3.5, @kacperkapusciak/package-a@workspace:^, @kacperkapusciak/package-a@workspace:packages/package-a":
   version: 0.0.0-use.local
   resolution: "@kacperkapusciak/package-a@workspace:packages/package-a"
   dependencies:
@@ -745,7 +745,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@kacperkapusciak/package-b@workspace:packages/package-b"
   dependencies:
-    "@kacperkapusciak/package-a": ^1.3.4
+    "@kacperkapusciak/package-a": ^1.3.5
     "@kacperkapusciak/package-c": "workspace:^"
   languageName: unknown
   linkType: soft

@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.9.0](https://github.com/kacperkapusciak/monorepo-playground/compare/@kacperkapusciak/package-c@0.8.0...@kacperkapusciak/package-c@0.9.0) (2022-11-21)
+
+### Features
+
+* stuf ([bbad3ab](https://github.com/kacperkapusciak/monorepo-playground/commit/bbad3ab293f321a826bdadc04dfb29be973d8377))
+
 # [0.8.0](https://github.com/kacperkapusciak/monorepo-playground/compare/@kacperkapusciak/package-c@0.7.0...@kacperkapusciak/package-c@0.8.0) (2022-11-21)
 
 ### Features

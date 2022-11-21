@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.6](https://github.com/kacperkapusciak/monorepo-playground/compare/@kacperkapusciak/package-a@1.3.5...@kacperkapusciak/package-a@1.3.6) (2022-11-21)
+
+**Note:** Version bump only for package @kacperkapusciak/package-a
+
 ## [1.3.5](https://github.com/kacperkapusciak/monorepo-playground/compare/@kacperkapusciak/package-a@1.3.4...@kacperkapusciak/package-a@1.3.5) (2022-11-21)
 
 **Note:** Version bump only for package @kacperkapusciak/package-a

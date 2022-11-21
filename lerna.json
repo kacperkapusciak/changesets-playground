@@ -13,8 +13,7 @@
       "createRelease": "github",
       "message": "chore: publish",
       "ignoreChanges": ["**/*.test.js", "**/*.md", "**/example/**", "example/**"],
-      "syncWorkspaceLock": true,
-      "noPrivate": true
+      "syncWorkspaceLock": true
     }
   }
 }

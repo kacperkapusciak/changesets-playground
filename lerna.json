@@ -7,7 +7,6 @@
   "npmClient": "yarn",
   "command": {
     "publish": {
-      "graphType": "all",
       "allowBranch": "main",
       "conventionalCommits": true,
       "createRelease": "github",

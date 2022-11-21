@@ -1,6 +1,6 @@
 module.exports = {
   log: function log(value) {
-    // more feat
+    // more feet
     console.log(value);
   },
 };
